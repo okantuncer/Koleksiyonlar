@@ -1,0 +1,5 @@
+/Users/Apple/Projects/Koleksiyonlar/oop3/bin/Debug/oop3.exe
+/Users/Apple/Projects/Koleksiyonlar/oop3/bin/Debug/oop3.pdb
+/Users/Apple/Projects/Koleksiyonlar/oop3/obj/anycpu/Debug/oop3.csproj.CoreCompileInputs.cache
+/Users/Apple/Projects/Koleksiyonlar/oop3/obj/anycpu/Debug/oop3.exe
+/Users/Apple/Projects/Koleksiyonlar/oop3/obj/anycpu/Debug/oop3.pdb

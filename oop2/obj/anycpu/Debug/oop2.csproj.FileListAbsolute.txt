@@ -1,0 +1,6 @@
+/Users/Apple/Projects/Koleksiyonlar/oop2/bin/Debug/oop2.exe
+/Users/Apple/Projects/Koleksiyonlar/oop2/bin/Debug/oop2.pdb
+/Users/Apple/Projects/Koleksiyonlar/oop2/obj/anycpu/Debug/oop2.csprojAssemblyReference.cache
+/Users/Apple/Projects/Koleksiyonlar/oop2/obj/anycpu/Debug/oop2.csproj.CoreCompileInputs.cache
+/Users/Apple/Projects/Koleksiyonlar/oop2/obj/anycpu/Debug/oop2.exe
+/Users/Apple/Projects/Koleksiyonlar/oop2/obj/anycpu/Debug/oop2.pdb
