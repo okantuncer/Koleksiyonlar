@@ -36,6 +36,8 @@ namespace Koleksiyonlar
             Console.WriteLine(isimler2[4]);
             Console.WriteLine(isimler2[0]);
 
+            Console.WriteLine("Merhaba Dünya");
+
 
 
             //NpgsqlConnection connection = new NpgsqlConnection("Server=localhost; Port=127.0.0.1; Database=Deneme; User Id=postgres; Password=123456;");
